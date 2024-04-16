@@ -226,6 +226,8 @@ static ResetPlayerData(playerid) {
         character[playerid][i] = CHARACTER_DATA_CLEAN;
     }
 
+    Iter_Clear(PlayerCharacter[playerid]);
+
     playerIsLogged{playerid} = false;
 }
 
