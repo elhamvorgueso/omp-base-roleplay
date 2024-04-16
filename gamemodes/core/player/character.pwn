@@ -10,8 +10,6 @@
 #define MIN_CHARACTER_AGE           (18)
 #define MAX_CHARACTER_AGE           (32)
 
-#define DEFAULT_SKIN_ID             (60)
-
 #define DEFAULT_SPAWN_X             (1756.7087)
 #define DEFAULT_SPAWN_Y             (-1903.5756)
 #define DEFAULT_SPAWN_Z             (13.5643)
