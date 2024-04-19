@@ -10,4 +10,6 @@
 
 # Thanks to
 
-[BlueG](github.com/pBlueG), [Sreyas-Sreelal](https://github.com/Sreyas-Sreelal) and [Y_Less & Equip](https://github.com/pawn-lang/YSI-Includes/graphs/contributors)
+1. [BlueG](https://github.com/pBlueG)
+2. [Sreyas-Sreelal](https://github.com/Sreyas-Sreelal)
+3. [Y_Less & Equip](https://github.com/pawn-lang/YSI-Includes/graphs/contributors)
